@@ -1,0 +1,11 @@
+git init
+git add . memasukkan semua file ke stagging
+git commit memasukan file ke local repository
+git diff untuk mencari tahu perbedaan file
+git checkout menggunakan versi terakhir di repo lokal
+git rm --cached -r . mengahpus semua file di stagging area
+
+aplod ke github menggunakan terminal hyper
+ke folder yang ingin diupload filenya
+git remote add origin https://github.com/mnajamudin28/story.git
+git push -u origin master
